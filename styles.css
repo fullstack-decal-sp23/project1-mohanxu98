@@ -1,0 +1,17 @@
+* {
+   box-sizing: border-box;
+   
+}
+.heading{
+   font-weight:300;
+   color: purple; 
+
+}
+
+#ID_color{
+   color:blue; 
+}
+
+a:hover{
+   background-color:yellow;
+}
